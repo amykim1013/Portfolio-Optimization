@@ -10,6 +10,7 @@ The implemented strategies include:
 - Minimum-Variance Optimization (MinVar)
 - Risk Parity (RP)
 - Equal Weighting (EW)
+- Factor Modelling
 
 # Usage
 Each portfolio optimization strategy is implemented in a separate file. To use a particular strategy, simply import the corresponding file and call the relevant function with your data.
